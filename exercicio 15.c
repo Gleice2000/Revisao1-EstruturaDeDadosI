@@ -1,3 +1,5 @@
+//Crie uma função para verificar se um elemento existe em uma fila circular estática.
+
 #include <stdio.h>
 
 void mostra(tfila f){
